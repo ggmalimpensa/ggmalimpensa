@@ -8,4 +8,6 @@ Java :coffee: and Python :snake: are my mainly programming languages.
 
 I'm currently working for Arquivei as Team Lead.
 
+Trying to learn Go and PHP... :metal:
+
 ___
