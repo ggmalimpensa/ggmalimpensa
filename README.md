@@ -6,6 +6,6 @@ My name is Gabriel Gioannini Malimpensa and I like coding :computer:, coffee :co
 
 Java :coffee: and Python :snake: are my mainly programming languages.
 
-I'm currently working on LuizaLabs as Squad Lead.
+I'm currently working for Arquivei as Team Lead.
 
 ___
