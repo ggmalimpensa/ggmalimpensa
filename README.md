@@ -4,10 +4,10 @@ ___
 
 My name is Gabriel Gioannini Malimpensa and I like coding :computer:, coffee :coffee: and beer :beer:!
 
-Java :coffee: and Python :snake: are my main programming languages.
+Go, Java :coffee: and Python :snake: are my main programming languages.
 
-I'm currently working for Arquivei as Tech Lead.
+I'm currently working for Febrafar as Tech Lead.
 
-Trying to learn Go and PHP... :metal:
+I like to talk about Clean Architecture, DDD, SOLID and Tests... :metal:
 
 ___
